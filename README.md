@@ -1,6 +1,6 @@
 # Daffy Store
 <div align="center" width="50">
-    <img src="./assets/bg.png" width="75%"/>
+    <img src="./assets/img.png" width="75%"/>
 </div><br/>
 
 ## Decripcion
@@ -8,7 +8,7 @@
 Tienda de productos relacionados con el anime "Naruto". Simula un proceso básico de comprar en una tienda online.
 
 ## Link
-- https://lustrous-fenglisu-41151e.netlify.app/
+- https://gregarious-klepon-d3ec37.netlify.app
 
 ## Lenguajes o Herramientas
 
